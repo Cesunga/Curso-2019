@@ -1,0 +1,13 @@
+body {
+     background-color: black;background-image: url(images/Hellscream.jpg)}
+
+p {
+     font-size: 20px;text-align: left; color: aqua}
+
+     h1 {font-size: 50px; text-align: center; color: aqua}
+     h2 {font-size: 30px; text-align: left; color: aqua}
+
+
+header, footer, body, p, h1, h2 {
+    border: 1px solid black
+}
